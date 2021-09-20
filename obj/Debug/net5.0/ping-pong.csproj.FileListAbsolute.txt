@@ -1,0 +1,15 @@
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ping-pong.deps.json
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ping-pong.runtimeconfig.json
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ping-pong.runtimeconfig.dev.json
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ping-pong.dll
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ref/ping-pong.dll
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/bin/Debug/net5.0/ping-pong.pdb
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.csprojAssemblyReference.cache
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.AssemblyInfoInputs.cache
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.AssemblyInfo.cs
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.csproj.CoreCompileInputs.cache
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.dll
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ref/ping-pong.dll
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.pdb
+/Users/benjamindunham/Desktop/epicodus/week-8/ping-pong/obj/Debug/net5.0/ping-pong.genruntimeconfig.cache
